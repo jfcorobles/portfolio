@@ -1,0 +1,75 @@
+{
+    "NAVBAR": {
+        "HOME": "Home",
+        "RESUME": "Resume",
+        "PROJECTS": "Projects",
+        "CONTACT": "Contact"
+    },
+    "CONTACT": {
+        "BOLD": "Let's connect on LinkedIn!",
+        "DESCRIPTION": "I'm always open to new opportunities and collaborations. Reach out and let's start a conversation.",
+        "BUTTON": "Contact me on LinkedIn"
+    },
+    "HOME": {
+        "MINI-HEADER": "Full-Stack · Angular · DOTNET · Azure",
+        "HEADER": "Transform your ideas into high-performance web apps",
+        "GRADIANT-HEADER": "Go digital and grow with confidence",
+        "BUTTON-RESUME": "Resume",
+        "BUTTON-PROJECTS": "Projects",
+        "ABOUT-ME": "About Me",
+        "ABOUT-ME-HEADER": "I'm a Full Stack Developer specializing in Angular and .NET, focused on building scalable, secure, and high-performance web applications.",
+        "ABOUT-ME-DESCRIPTION": "With experience in both frontend and backend development, I help businesses turn their ideas into modern, responsive, and efficient digital solutions. From crafting intuitive user interfaces to designing robust APIs and managing data with SQL Server or PostgreSQL — I handle the full development lifecycle with clean architecture and best practices."
+    },
+    "PROJECTS": {
+        "PROJECTS": "Projects",
+        "FOOTER": "Let's build something together",
+        "FOOTER-BUTTON": "Contact me",
+        "DDM": {
+            "HEADER": "DDM - Crest Counter",
+            "DESCRIPTION": "This app is a digital companion for Dungeon Dice Monsters, allowing players to roll dice virtually and automatically track the results as if using a physical abacus. It keeps track of life points and game stats seamlessly. With this app, there's no need for physical dice or an abacus — everything you need is integrated into a single, easy-to-use platform that runs directly in your browser, no installation required.",
+            "BUTTON": "Visit Crest-Counter Page"
+        },
+        "VALAKUS": {
+            "HEADER": "Valakus - Fede Vigevani",
+            "DESCRIPTION": "Create a functional and immersive version of the Valakuss page, simulating a clown catalog with their respective profiles, images, prices, hidden messages, and a basic purchase and browsing system. All while preserving the visual style and eerie atmosphere of the universe featured in the videos.",
+            "BUTTON": "Visit Valakus Page"
+        },
+        "MYLIST": {
+            "HEADER": "MyList - Discord Bot",
+            "DESCRIPTION": "A Discord bot built with DiscordJS that allows users to create, delete, and view private lists. Users can add and remove items from their lists, all managed privately so that only the list owner can see them. This ensures personal organization within Discord without exposing your data to others.",
+            "BUTTON": "Visit MyList Bot Page"
+        },
+        "MOMIR": {
+            "HEADER": "Momir Basic",
+            "DESCRIPTION": "With Momir Basic, you can enjoy the randomness of Momir Basic in physical tabletop games, no need for screens at the table. Just print the creature and play it like a token! Perfect for casual playgroups, cube drafts, or just bringing some wild unpredictability to your next Magic night.",
+            "BUTTON": "Visit Momir Basic Page"
+        }
+    },
+    "RESUME": {
+        "TITLE": "Resume",
+        "BUTTON": "Download Resume",
+        "STACK": "Tech Stack",
+        "EXPERIENCE": {
+            "TITLE":"Experience",
+            "CDIS": "I was responsible for developing and releasing various custom projects for the industry. As a software factory, I worked on projects of all kinds, including inventory, logistics, appointment scheduling, banking, etc",
+            "BIND": "As a developer, I focused on creating new functionalities for the system, as well as performing maintenance and making necessary corrections.",
+            "BIND2": "As a Project Leader, I planned and coordinated the delivery of updates and requirements, ensuring adherence to deadlines and project scope. I led multifunctional teams, managed risks, and resolved issues to maintain alignment with objectives and meet stakeholder expectations."
+        },
+        "EDUCATION": {
+            "TITLE":"Education",
+            "UANL": "During my time at UANL, I developed a strong foundation in software engineering, data structures, and database systems. This period sparked my passion for building complete web applications — from intuitive Angular frontends to robust .NET backend services — and laid the groundwork for my full stack development career.",
+            "TECMI1": "This MBA program strengthened my understanding of business strategy, financial analysis, and project management — skills that complement my technical background as a full stack developer. It equipped me to align technology solutions with business goals, optimize project resources, and communicate effectively with both stakeholders and development teams.",
+            "TECMI2": "This program deepened my skills in process optimization, continuous improvement, and productivity analysis. These competencies allow me to apply Lean and Agile principles in software development, streamline workflows, and deliver high-quality full stack solutions efficiently — from scalable .NET APIs to dynamic Angular applications.",
+            "TECMI3":"This MBA in Digital Marketing enhanced my ability to develop user-centric platforms, optimize digital presence, and align software development with marketing strategies. It empowers me to build full stack applications that not only perform well technically, but also drive engagement, SEO performance, and conversion — integrating tools like analytics, campaign tracking, and automation when needed."
+        },
+        "SKILLS": {
+            "TITLE":"Professional Skills",
+            "1":"Project Management",
+            "2":"Agile Methodologies (Scrum / Kanban)",
+            "3":"ERP Development & Maintenance",
+            "4":"SAT Compliance & Release Management",
+            "5":"Bug Resolution & Code Refactoring",
+            "6":"Team Collaboration with Jira & Slack"
+        }
+    }
+}

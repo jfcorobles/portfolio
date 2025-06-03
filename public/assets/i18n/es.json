@@ -1,0 +1,75 @@
+{
+    "NAVBAR": {
+        "HOME": "Inicio",
+        "RESUME": "Currículum",
+        "PROJECTS": "Proyectos",
+        "CONTACT": "Contacto"
+    },
+    "CONTACT": {
+        "BOLD": "¡Conectemos en LinkedIn!",
+        "DESCRIPTION": "Siempre estoy abierto a nuevas oportunidades y colaboraciones. Contáctame y empecemos una conversación.",
+        "BUTTON": "Contáctame en LinkedIn"
+    },
+    "HOME": {
+        "MINI-HEADER": "Full-Stack · Angular · DOTNET · Azure",
+        "HEADER": "Transforma tus ideas en aplicaciones web de alto rendimiento",
+        "GRADIANT-HEADER": "Digitalízate y crece con confianza",
+        "BUTTON-RESUME": "Currículum",
+        "BUTTON-PROJECTS": "Proyectos",
+        "ABOUT-ME": "Sobre mí",
+        "ABOUT-ME-HEADER": "Soy un Desarrollador Full Stack especializado en Angular y .NET, enfocado en construir aplicaciones web escalables, seguras y de alto rendimiento.",
+        "ABOUT-ME-DESCRIPTION": "Con experiencia en desarrollo frontend y backend, ayudo a empresas a convertir sus ideas en soluciones digitales modernas, responsivas y eficientes. Desde crear interfaces intuitivas hasta diseñar APIs robustas y gestionar datos con SQL Server o PostgreSQL — manejo todo el ciclo de desarrollo con arquitectura limpia y las mejores prácticas."
+    },
+    "PROJECTS": {
+        "PROJECTS": "Proyectos",
+        "FOOTER": "Construyamos algo juntos",
+        "FOOTER-BUTTON": "Contáctame",
+        "DDM": {
+            "HEADER": "DDM - Contador de Crestas",
+            "DESCRIPTION": "Esta aplicación es un compañero digital para el juego de Dungeon Dice Monsters, permitiendo a los jugadores lanzar dados virtualmente y seguir los resultados automáticamente como si usaran un ábaco físico. Lleva el control de los puntos de vida y estadísticas del juego de forma fluida. Con esta app, no necesitas dados físicos ni un ábaco: todo lo que necesitas está integrado en una única plataforma fácil de usar que se ejecuta directamente en tu navegador, sin necesidad de instalación.",
+            "BUTTON": "Visitar página de Crest-Counter"
+        },
+        "VALAKUS": {
+            "HEADER": "Valakus - Fede Vigevani",
+            "DESCRIPTION": "Crea una versión funcional e inmersiva de la página de Valakus, simulando un catálogo de payasos con sus respectivos perfiles, imágenes, precios, mensajes ocultos y un sistema básico de navegación y compra. Todo mientras se mantiene el estilo visual y la atmósfera inquietante del universo presentado en los videos.",
+            "BUTTON": "Visitar página de Valakus"
+        },
+        "MYLIST": {
+            "HEADER": "MyList - Bot de Discord",
+            "DESCRIPTION": "Un bot de Discord construido con DiscordJS que permite a los usuarios crear, eliminar y ver listas privadas. Los usuarios pueden agregar y eliminar elementos de sus listas, todo gestionado de forma privada para que solo el dueño de la lista pueda verla. Esto garantiza una organización personal dentro de Discord sin exponer tus datos a otros.",
+            "BUTTON": "Visitar página de MyList BOT"
+        },
+        "MOMIR": {
+            "HEADER": "Momir Basic",
+            "DESCRIPTION": "Con Momir Basic, puedes disfrutar de la aleatoriedad de Momir Basic en juegos físicos de mesa, sin necesidad de pantallas. ¡Solo imprime la criatura y juégala como una ficha! Perfecto para grupos de juego casuales, drafts de cube o para añadir un toque impredecible a tu próxima noche de Magic.",
+            "BUTTON": "Visitar página de Momir Basic"
+        }
+    },
+    "RESUME": {
+        "TITLE": "Currículum",
+        "BUTTON": "Descargar CV",
+        "STACK": "Stack Tecnológico",
+        "EXPERIENCE": {
+            "TITLE": "Experiencia",
+            "CDIS": "Fui responsable del desarrollo y liberación de diversos proyectos personalizados para la industria. Como parte de una fábrica de software, trabajé en proyectos de todo tipo, incluyendo inventarios, logística, programación de citas, banca, entre otros.",
+            "BIND": "Como desarrollador, me enfoqué en crear nuevas funcionalidades para el sistema, así como en realizar mantenimiento y correcciones necesarias.",
+            "BIND2": "Como Líder de Proyecto, planifiqué y coordiné la entrega de actualizaciones y requerimientos, asegurando el cumplimiento de plazos y el alcance del proyecto. Lideré equipos multifuncionales, gestioné riesgos y resolví problemas para mantener la alineación con los objetivos y cumplir con las expectativas de los interesados."
+        },
+        "EDUCATION": {
+            "TITLE": "Educación",
+            "UANL": "Durante mi tiempo en la UANL, desarrollé una sólida base en ingeniería de software, estructuras de datos y sistemas de bases de datos. Este período despertó mi pasión por construir aplicaciones web completas — desde frontends intuitivos en Angular hasta servicios backend robustos en .NET — y sentó las bases para mi carrera como desarrollador full stack.",
+            "TECMI1": "Este programa de MBA fortaleció mi comprensión de la estrategia empresarial, análisis financiero y gestión de proyectos — habilidades que complementan mi formación técnica como desarrollador full stack. Me preparó para alinear soluciones tecnológicas con objetivos de negocio, optimizar recursos de proyecto y comunicarme eficazmente con stakeholders y equipos de desarrollo.",
+            "TECMI2": "Este programa profundizó mis habilidades en optimización de procesos, mejora continua y análisis de productividad. Estas competencias me permiten aplicar principios Lean y Agile en el desarrollo de software, optimizar flujos de trabajo y entregar soluciones full stack de alta calidad de forma eficiente — desde APIs escalables en .NET hasta aplicaciones dinámicas en Angular.",
+            "TECMI3": "Este MBA en Marketing Digital mejoró mi capacidad para desarrollar plataformas centradas en el usuario, optimizar la presencia digital y alinear el desarrollo de software con estrategias de marketing. Me capacita para construir aplicaciones full stack que no solo funcionen bien técnicamente, sino que también impulsen el engagement, el rendimiento SEO y la conversión — integrando herramientas como analítica, seguimiento de campañas y automatización cuando es necesario."
+        },
+        "SKILLS": {
+            "TITLE": "Habilidades Profesionales",
+            "1": "Gestión de Proyectos",
+            "2": "Metodologías Ágiles (Scrum / Kanban)",
+            "3": "Desarrollo y Mantenimiento de ERP",
+            "4": "Cumplimiento SAT y Gestión de Liberaciones",
+            "5": "Resolución de Bugs y Refactorización de Código",
+            "6": "Colaboración en Equipo con Jira y Slack"
+        }
+    }
+}
