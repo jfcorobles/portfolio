@@ -1,59 +1,24 @@
-# Portfolio
+# Portfolio Resume App
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
+This is a personal portfolio web application showcasing my resume, projects, and contact information. The app is built with Angular and supports multiple languages (English and Spanish) using ngx-translate.
 
-## Development server
+## Features
 
-To start a local development server, run:
+- 🌐 **Multi-language support**: Switch between English and Spanish languages seamlessly.
+- 📄 **Resume download**: Download the resume PDF in the selected language.
+- 📱 **Responsive design**: Optimized for desktop and mobile devices.
+- 🔗 **Navigation**: Easy navigation through home, resume, projects, and contact sections.
+- 🔧 **Built with Angular standalone components** and follows best practices for maintainability.
 
-```bash
-ng serve
-```
+## Technologies Used
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+- Angular (standalone components)
+- ngx-translate for internationalization (i18n)
+- Bootstrap 5 for styling and responsive layout
+- TypeScript, HTML, CSS
 
-## Code scaffolding
+## Usage
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+1. Select your preferred language from the dropdown menu in the navbar.
+2. Navigate to the Resume section to view your experience and skills.
+3. Click the **Download Resume** button to download the PDF in the chosen language.
