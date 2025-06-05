@@ -24,6 +24,7 @@
         "PROJECTS": "Proyectos",
         "FOOTER": "Construyamos algo juntos",
         "FOOTER-BUTTON": "Contáctame",
+        "DESCRIPTION": "Explora una selección de aplicaciones full stack que he desarrollado con Angular, .NET y más.",
         "DDM": {
             "HEADER": "DDM - Contador de Crestas",
             "DESCRIPTION": "Esta aplicación es un compañero digital para el juego de Dungeon Dice Monsters, permitiendo a los jugadores lanzar dados virtualmente y seguir los resultados automáticamente como si usaran un ábaco físico. Lleva el control de los puntos de vida y estadísticas del juego de forma fluida. Con esta app, no necesitas dados físicos ni un ábaco: todo lo que necesitas está integrado en una única plataforma fácil de usar que se ejecuta directamente en tu navegador, sin necesidad de instalación.",
@@ -49,6 +50,7 @@
         "TITLE": "Currículum",
         "BUTTON": "Descargar CV",
         "STACK": "Stack Tecnológico",
+        "DESCRIPTION": "Descubre mi trayectoria profesional como desarrollador full stack, incluyendo experiencia, educación, habilidades técnicas y tecnologías. También puedes descargar mi currículum en tu idioma preferido.",
         "EXPERIENCE": {
             "TITLE": "Experiencia",
             "CDIS": "Fui responsable del desarrollo y liberación de diversos proyectos personalizados para la industria. Como parte de una fábrica de software, trabajé en proyectos de todo tipo, incluyendo inventarios, logística, programación de citas, banca, entre otros.",

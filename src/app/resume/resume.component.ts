@@ -1,5 +1,7 @@
-import { Component } from '@angular/core';
+import { Component, OnDestroy, OnInit } from '@angular/core';
 import { TranslateModule, TranslateService } from '@ngx-translate/core';
+import { Title, Meta } from '@angular/platform-browser';
+import { Subscription } from 'rxjs';
 
 @Component({
   selector: 'app-resume',
@@ -7,8 +9,36 @@ import { TranslateModule, TranslateService } from '@ngx-translate/core';
   templateUrl: './resume.component.html',
   styleUrl: './resume.component.css'
 })
-export class ResumeComponent {
-  constructor(private translate: TranslateService) { }
+export class ResumeComponent implements OnInit, OnDestroy {  
+  private langChangeSub!: Subscription;
+
+  constructor(private translate: TranslateService,
+    private titleService: Title,
+    private metaService: Meta) { }
+
+  ngOnInit(): void {
+    this.setPageSEO();
+
+    this.langChangeSub = this.translate.onLangChange.subscribe(() => {
+      this.setPageSEO();
+    });
+  }
+
+  ngOnDestroy(): void {
+    if (this.langChangeSub) {
+      this.langChangeSub.unsubscribe();
+    }
+  }
+
+
+  private setPageSEO(): void {
+    const title = this.translate.instant('RESUME.TITLE');
+    const description = this.translate.instant('RESUME.DESCRIPTION');
+
+    this.titleService.setTitle(title);
+    this.metaService.updateTag({ name: 'description', content: description });
+
+  }
 
   get resumeUrl(): string {
     const lang = this.translate.currentLang || this.translate.getDefaultLang() || 'en';
