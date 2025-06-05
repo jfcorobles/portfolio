@@ -8,9 +8,9 @@ const path = require('path');
 
     const urls = [
         { url: '/', changefreq: 'weekly', priority: 1.0 },
-        { url: '/resume', changefreq: 'monthly', priority: 0.8 },
-        { url: '/projects', changefreq: 'monthly', priority: 0.8 },
-        { url: '/contact', changefreq: 'monthly', priority: 0.6 }
+        { url: '/portfolio/resume', changefreq: 'monthly', priority: 0.8 },
+        { url: '/portfolio/projects', changefreq: 'monthly', priority: 0.8 },
+        { url: '/portfolio/contact', changefreq: 'monthly', priority: 0.6 }
     ];
 
     const writeStream = createWriteStream(path.join(distPath, 'sitemap.xml'));
