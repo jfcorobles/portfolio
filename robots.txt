@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jfcorobles.github.io/portfolio/sitemap.xml

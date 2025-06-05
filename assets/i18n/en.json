@@ -24,6 +24,7 @@
         "PROJECTS": "Projects",
         "FOOTER": "Let's build something together",
         "FOOTER-BUTTON": "Contact me",
+        "DESCRIPTION": "Explore a selection of full-stack applications I've developed using Angular, .NET, and more.",
         "DDM": {
             "HEADER": "DDM - Crest Counter",
             "DESCRIPTION": "This app is a digital companion for Dungeon Dice Monsters, allowing players to roll dice virtually and automatically track the results as if using a physical abacus. It keeps track of life points and game stats seamlessly. With this app, there's no need for physical dice or an abacus — everything you need is integrated into a single, easy-to-use platform that runs directly in your browser, no installation required.",
@@ -49,27 +50,28 @@
         "TITLE": "Resume",
         "BUTTON": "Download Resume",
         "STACK": "Tech Stack",
+        "DESCRIPTION": "Discover my professional journey as a full stack developer, including experience, education, technical skills, and technologies. You can also download my resume in your preferred language.",
         "EXPERIENCE": {
-            "TITLE":"Experience",
+            "TITLE": "Experience",
             "CDIS": "I was responsible for developing and releasing various custom projects for the industry. As a software factory, I worked on projects of all kinds, including inventory, logistics, appointment scheduling, banking, etc",
             "BIND": "As a developer, I focused on creating new functionalities for the system, as well as performing maintenance and making necessary corrections.",
             "BIND2": "As a Project Leader, I planned and coordinated the delivery of updates and requirements, ensuring adherence to deadlines and project scope. I led multifunctional teams, managed risks, and resolved issues to maintain alignment with objectives and meet stakeholder expectations."
         },
         "EDUCATION": {
-            "TITLE":"Education",
+            "TITLE": "Education",
             "UANL": "During my time at UANL, I developed a strong foundation in software engineering, data structures, and database systems. This period sparked my passion for building complete web applications — from intuitive Angular frontends to robust .NET backend services — and laid the groundwork for my full stack development career.",
             "TECMI1": "This MBA program strengthened my understanding of business strategy, financial analysis, and project management — skills that complement my technical background as a full stack developer. It equipped me to align technology solutions with business goals, optimize project resources, and communicate effectively with both stakeholders and development teams.",
             "TECMI2": "This program deepened my skills in process optimization, continuous improvement, and productivity analysis. These competencies allow me to apply Lean and Agile principles in software development, streamline workflows, and deliver high-quality full stack solutions efficiently — from scalable .NET APIs to dynamic Angular applications.",
-            "TECMI3":"This MBA in Digital Marketing enhanced my ability to develop user-centric platforms, optimize digital presence, and align software development with marketing strategies. It empowers me to build full stack applications that not only perform well technically, but also drive engagement, SEO performance, and conversion — integrating tools like analytics, campaign tracking, and automation when needed."
+            "TECMI3": "This MBA in Digital Marketing enhanced my ability to develop user-centric platforms, optimize digital presence, and align software development with marketing strategies. It empowers me to build full stack applications that not only perform well technically, but also drive engagement, SEO performance, and conversion — integrating tools like analytics, campaign tracking, and automation when needed."
         },
         "SKILLS": {
-            "TITLE":"Professional Skills",
-            "1":"Project Management",
-            "2":"Agile Methodologies (Scrum / Kanban)",
-            "3":"ERP Development & Maintenance",
-            "4":"SAT Compliance & Release Management",
-            "5":"Bug Resolution & Code Refactoring",
-            "6":"Team Collaboration with Jira & Slack"
+            "TITLE": "Professional Skills",
+            "1": "Project Management",
+            "2": "Agile Methodologies (Scrum / Kanban)",
+            "3": "ERP Development & Maintenance",
+            "4": "SAT Compliance & Release Management",
+            "5": "Bug Resolution & Code Refactoring",
+            "6": "Team Collaboration with Jira & Slack"
         }
     }
 }
