@@ -25,6 +25,26 @@
         "FOOTER": "Let's build something together",
         "FOOTER-BUTTON": "Contact me",
         "DESCRIPTION": "Explore a selection of full-stack applications I've developed using Angular, .NET, and more.",
+        "MVC": {
+            "HEADER": "Máscaras vs Cabelleras TCG",
+            "DESCRIPTION": "Interactive web platform developed in Angular 19 and Supabase for the Mexican trading card game Máscaras vs Cabelleras. Features an official digital card catalog with advanced filtering, cloud deck builder, user authentication, and a community hub celebrating Mexican lucha libre.",
+            "BUTTON": "Visit Máscaras vs Cabelleras Page"
+        },
+        "NOTENOUGHMANA": {
+            "HEADER": "Not Enough Mana - Companion & Print & Play",
+            "DESCRIPTION": "100% offline Progressive Web App (PWA) companion for the party card game Not Enough Mana. Features life and mana tracking with procedural Web Audio API sound effects and Screen Wake Lock, plus the complete 154-card deck translated into Spanish ready for Print & Play (PDF), built with automated Python pipelines (OpenCV and Pillow).",
+            "BUTTON": "Visit Not Enough Mana Page"
+        },
+        "SPRINTCALENDAR": {
+            "HEADER": "Sprint Calendar - PWA",
+            "DESCRIPTION": "Modern visual Progressive Web App designed for agile sprint planning with continuous sprint centering. Supports 1-to-4 week cycles, dynamic daily progress tracking, and real-time bidirectional Google Calendar API v3 integration via Google OAuth 2.0.",
+            "BUTTON": "Visit Sprint Calendar Page"
+        },
+        "RIFTBOUND": {
+            "HEADER": "Riftbound Counter",
+            "DESCRIPTION": "Minimalist tabletop score tracking PWA built with Angular and TailwindCSS for 1 to 4 players. Features responsive layout with inverted card rotation for head-to-head tabletop play, virtual 6-sided dice roller, and local session persistence in localStorage.",
+            "BUTTON": "Visit Riftbound Counter Page"
+        },
         "DDM": {
             "HEADER": "DDM - Crest Counter",
             "DESCRIPTION": "This app is a digital companion for Dungeon Dice Monsters, allowing players to roll dice virtually and automatically track the results as if using a physical abacus. It keeps track of life points and game stats seamlessly. With this app, there's no need for physical dice or an abacus — everything you need is integrated into a single, easy-to-use platform that runs directly in your browser, no installation required.",
@@ -53,9 +73,12 @@
         "DESCRIPTION": "Discover my professional journey as a full stack developer, including experience, education, technical skills, and technologies. You can also download my resume in your preferred language.",
         "EXPERIENCE": {
             "TITLE": "Experience",
-            "CDIS": "I was responsible for developing and releasing various custom projects for the industry. As a software factory, I worked on projects of all kinds, including inventory, logistics, appointment scheduling, banking, etc",
+            "PRESENT": "Present",
+            "ARCA": "Back-end Developer specialized in .NET Core and microservices. Responsible for providing support and developing new features for applications operating in multiple countries, utilizing Microsoft Azure, microservices architecture, and enterprise-grade backend systems.",
+            "FREELANCE": "Independent Full Stack Developer delivering modern, end-to-end web applications and custom software solutions leveraging Angular, .NET Core, RESTful APIs, and responsive design tailored to client needs.",
+            "BIND2": "As a Project Leader, I planned and coordinated the delivery of updates and requirements, ensuring adherence to deadlines and project scope. I led multifunctional teams, managed risks, and resolved issues to maintain alignment with objectives and meet stakeholder expectations.",
             "BIND": "As a developer, I focused on creating new functionalities for the system, as well as performing maintenance and making necessary corrections.",
-            "BIND2": "As a Project Leader, I planned and coordinated the delivery of updates and requirements, ensuring adherence to deadlines and project scope. I led multifunctional teams, managed risks, and resolved issues to maintain alignment with objectives and meet stakeholder expectations."
+            "CDIS": "I was responsible for developing and releasing various custom projects for the industry. As a software factory, I worked on projects of all kinds, including inventory, logistics, appointment scheduling, banking, etc"
         },
         "EDUCATION": {
             "TITLE": "Education",
