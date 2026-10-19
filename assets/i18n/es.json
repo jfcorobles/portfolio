@@ -25,6 +25,26 @@
         "FOOTER": "Construyamos algo juntos",
         "FOOTER-BUTTON": "Contáctame",
         "DESCRIPTION": "Explora una selección de aplicaciones full stack que he desarrollado con Angular, .NET y más.",
+        "MVC": {
+            "HEADER": "Máscaras vs Cabelleras TCG",
+            "DESCRIPTION": "Plataforma web interactiva desarrollada en Angular 19 y Supabase para el juego de cartas coleccionables mexicano Máscaras vs Cabelleras. Cuenta con catálogo digital interactivo de cartas con filtros avanzados, constructor de mazos en la nube (deckbuilder), autenticación de usuarios y portal comunitario con ambientación de lucha libre.",
+            "BUTTON": "Visitar página de Máscaras vs Cabelleras"
+        },
+        "NOTENOUGHMANA": {
+            "HEADER": "Not Enough Mana - Companion & Print & Play",
+            "DESCRIPTION": "Aplicación Web Progresiva (PWA) 100% offline para el juego de mesa y fiesta Not Enough Mana. Incluye contador interactivo de Vida y Maná con efectos de sonido procedurales vía Web Audio API y Screen Wake Lock. Además, integra la baraja completa de 154 cartas traducidas al español en formato Print & Play (PDF), generadas mediante pipelines automáticos en Python (OpenCV y Pillow).",
+            "BUTTON": "Visitar página de Not Enough Mana"
+        },
+        "SPRINTCALENDAR": {
+            "HEADER": "Sprint Calendar - PWA",
+            "DESCRIPTION": "Aplicación web progresiva diseñada para la planificación ágil de sprints con enfoque continuo de visualización. Soporta duraciones de 1 a 4 semanas, cálculo dinámico de progreso diario e integración bidireccional en tiempo real con Google Calendar API v3 mediante autenticación Google OAuth 2.0.",
+            "BUTTON": "Visitar página de Sprint Calendar"
+        },
+        "RIFTBOUND": {
+            "HEADER": "Riftbound Counter",
+            "DESCRIPTION": "Contador de puntuación minimalista y offline para juegos de mesa desarrollado como PWA con Angular y TailwindCSS. Diseñado para 1 a 4 jugadores con rotación automática de cartas para juego cara a cara en mesa, función de tirada de dados virtual y persistencia de sesión en localStorage.",
+            "BUTTON": "Visitar página de Riftbound Counter"
+        },
         "DDM": {
             "HEADER": "DDM - Contador de Crestas",
             "DESCRIPTION": "Esta aplicación es un compañero digital para el juego de Dungeon Dice Monsters, permitiendo a los jugadores lanzar dados virtualmente y seguir los resultados automáticamente como si usaran un ábaco físico. Lleva el control de los puntos de vida y estadísticas del juego de forma fluida. Con esta app, no necesitas dados físicos ni un ábaco: todo lo que necesitas está integrado en una única plataforma fácil de usar que se ejecuta directamente en tu navegador, sin necesidad de instalación.",
@@ -53,9 +73,12 @@
         "DESCRIPTION": "Descubre mi trayectoria profesional como desarrollador full stack, incluyendo experiencia, educación, habilidades técnicas y tecnologías. También puedes descargar mi currículum en tu idioma preferido.",
         "EXPERIENCE": {
             "TITLE": "Experiencia",
-            "CDIS": "Fui responsable del desarrollo y liberación de diversos proyectos personalizados para la industria. Como parte de una fábrica de software, trabajé en proyectos de todo tipo, incluyendo inventarios, logística, programación de citas, banca, entre otros.",
+            "PRESENT": "Presente",
+            "ARCA": "Desarrollador Back-end especializado en .NET Core y microservicios. Responsable de brindar soporte y desarrollar nuevas funcionalidades para aplicaciones críticas que operan en múltiples países, trabajando con Microsoft Azure, arquitectura escalable y soluciones de alta disponibilidad empresarial.",
+            "FREELANCE": "Desarrollador Full Stack independiente enfocado en el desarrollo integral de aplicaciones web responsivas, escalables y eficientes con Angular, .NET Core, APIs RESTful y gestión de bases de datos relacionales.",
+            "BIND2": "Como Líder de Proyecto, planifiqué y coordiné la entrega de actualizaciones y requerimientos, asegurando el cumplimiento de plazos y el alcance del proyecto. Lideré equipos multifuncionales, gestioné riesgos y resolví problemas para mantener la alineación con los objetivos y cumplir con las expectativas de los interesados.",
             "BIND": "Como desarrollador, me enfoqué en crear nuevas funcionalidades para el sistema, así como en realizar mantenimiento y correcciones necesarias.",
-            "BIND2": "Como Líder de Proyecto, planifiqué y coordiné la entrega de actualizaciones y requerimientos, asegurando el cumplimiento de plazos y el alcance del proyecto. Lideré equipos multifuncionales, gestioné riesgos y resolví problemas para mantener la alineación con los objetivos y cumplir con las expectativas de los interesados."
+            "CDIS": "Fui responsable del desarrollo y liberación de diversos proyectos personalizados para la industria. Como parte de una fábrica de software, trabajé en proyectos de todo tipo, incluyendo inventarios, logística, programación de citas, banca, entre otros."
         },
         "EDUCATION": {
             "TITLE": "Educación",
